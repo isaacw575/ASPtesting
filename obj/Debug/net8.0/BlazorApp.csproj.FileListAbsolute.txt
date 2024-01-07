@@ -27,3 +27,4 @@ C:\Users\Isaac\Git\BlazorApp\obj\Debug\net8.0\refint\BlazorApp.dll
 C:\Users\Isaac\Git\BlazorApp\obj\Debug\net8.0\BlazorApp.pdb
 C:\Users\Isaac\Git\BlazorApp\obj\Debug\net8.0\BlazorApp.genruntimeconfig.cache
 C:\Users\Isaac\Git\BlazorApp\obj\Debug\net8.0\ref\BlazorApp.dll
+C:\Users\Isaac\Git\BlazorApp\obj\Debug\net8.0\BlazorApp.sourcelink.json
